@@ -30,7 +30,7 @@ function verificaDados() {
      }
     // //todas as validações estão ok
     localStorage.setItem(1, usuario.valueOf());
-    localStorage.setItem(2, senha.valueOf());
+localStorage.setItem(2, senha.valueOf());
 
     console.log('passou pelas validações');
 
